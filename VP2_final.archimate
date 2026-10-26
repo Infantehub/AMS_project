@@ -340,6 +340,10 @@ recebe execução/eventos operacionais</documentation>
       <child xsi:type="archimate:DiagramObject" id="id-8eea8828ff014ba0875e8338402fdf54" targetConnections="id-a721a12bd3b74466a4678ed40415c5d0" archimateElement="id-4ea1859a87c443d5ab96fe819163f536">
         <bounds x="2400" y="570" width="120" height="55"/>
       </child>
+      <child xsi:type="archimate:Note" id="id-210b2e8a1e94475ca159c12007edc0a7" textAlignment="1">
+        <bounds x="1716" y="1908" width="662" height="109"/>
+        <content>Esta vista representa a estrutura de referência do XSYS ao nível aplicacional/lógico. A Xmiddle expõe interfaces para SERVEX, Xstation e Xoperation. A Xmiddle é composta por Xmiddle-core, Xmiddle-lex e Xmiddle-smart. Os objetos Xlex representam regras definidas por entidades LEX, mantidas/registadas pelo Xmiddle-core e aplicadas pelo Xmiddle-lex. A vista omite detalhes internos da Xstation, da Xoperation e dos SERVEX. A extensibilidade é modelada por interfaces estáveis e por objetos configuráveis/registados, como Xlex, registos de SERVEX e registos de Xstation. Detalhes da Xstation são remetidos para o VP6.</content>
+      </child>
     </element>
   </folder>
 </archimate:model>
