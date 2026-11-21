@@ -4,6 +4,9 @@ https://docs.google.com/forms/d/e/1FAIpQLSdJNMMzUWqZeLlF8yw7_pBuTzXLwgJdcvBPWzrE
 # VP-8
 https://docs.google.com/document/d/1puzRdeJJdE6naUuhKXubKoZjoqrKhs2UuEiiP9oKx-s/edit?tab=t.0
 
+# VP-8 2.0
+https://docs.google.com/document/d/1j2xnAceWvhbsW0Agn-vjzI3EXJjLyNxAQ4uQg2pwnGQ/edit?usp=sharing
+
 # Relatorio
 https://docs.google.com/document/d/1nvzGmAiIy7O0rDo2I-GfMDrtSdMZhSRnHGRSxxYt9ok/edit?usp=sharing
 
